@@ -1,5 +1,5 @@
 # Yesterday's News
-I like to keep up to date with what’s trending on Hacker News, but not *too* up to date. This is a little script that makes a [JSON feed](https://www.jsonfeed.org/) with yesterday's top thirty stories, complete with links to the original item *and* to the comments section.
+I like to keep up to date with what’s trending on Hacker News, but not *too* up to date. This is a little script that makes a [JSON feed](https://www.jsonfeed.org/) with yesterday's top thirty stories, complete with links to the original item *and* to the comments section. I read it in [NetNewsWire](https://netnewswire.com/).
 
 # Dependencies
 I use `pipenv` to install and manage Python libraries. In this case, it will install:
